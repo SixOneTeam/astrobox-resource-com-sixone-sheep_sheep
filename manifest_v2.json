@@ -1,0 +1,79 @@
+{
+  "item": {
+    "id": "com.sixone.sheep_sheep",
+    "restype": "quick_app",
+    "name": "羊了个羊",
+    "description": "你今天加入羊群了吗？\n指尖闯关 解压又上头",
+    "preview": [
+      "media/羊了个羊@2x.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/羊了个羊@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "密钥购买连接",
+      "url": "https://afdian.com/item/cb6cbd34edff11f0a4be52540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW6-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10P-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/环11-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环11-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/环9-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环9P-羊了个羊-v1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
