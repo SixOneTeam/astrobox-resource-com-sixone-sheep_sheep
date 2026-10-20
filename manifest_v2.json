@@ -5,7 +5,13 @@
     "name": "羊了个羊",
     "description": "你今天加入羊群了吗？\n指尖闯关 解压又上头",
     "preview": [
-      "media/羊了个羊@2x.png"
+      "media/羊了个羊@2x.png",
+      "media/游戏主页面@2x-2.png",
+      "media/游戏页面@2x-2.png",
+      "media/游戏主页面@2x.png",
+      "media/游戏页面@2x.png",
+      "media/成功@2x.png",
+      "media/失败@2x.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/羊了个羊@2x.png",
@@ -18,7 +24,7 @@
   },
   "links": [
     {
-      "title": "密钥购买连接",
+      "title": "羊了个羊密钥购买连接",
       "url": "https://afdian.com/item/cb6cbd34edff11f0a4be52540025c377?utm_source=copylink&utm_medium=link",
       "icon": "link"
     }
